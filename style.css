@@ -134,7 +134,11 @@ body {
 .aba-conteudo{
     display: none;
 }
-
+#aba-conteudos-titulos-ccm{
+    font-size: 26px;
+    text-align: center;
+    color: var(--botao-ativo);
+}
 .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
