@@ -76,6 +76,7 @@ body {
 .container__botao {
     display: none;
 }
+
   .conteudo-principal {
     display: flex;
     flex-direction: column;
