@@ -95,6 +95,7 @@ body {
     font-size: 32px;
 }
 .titulo-principal span {
+    align-items: center;
     color: var(--verde);
 }
 .botao {
