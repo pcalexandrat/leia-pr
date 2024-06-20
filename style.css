@@ -81,7 +81,6 @@ body {
 
   .conteudo-principal {
     padding: 12px 0;
-    align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -93,12 +92,10 @@ body {
 
 .titulo-principal {
     padding: 12px 0;
-    align-items: center;
     width: 100%;
     font-size: 32px;
 }
 .titulo-principal span {
-    align-items: center;
     color: var(--verde);
 }
 .botao {
