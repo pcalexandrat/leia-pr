@@ -140,7 +140,6 @@ body {
 }
 #aba-conteudos-titulos-ccm{
     font-size: 26px;
-    text-align: center;
     color: var(--botao-ativo);
 }
 .aba-conteudo-titulo-principal{
@@ -154,8 +153,9 @@ body {
 }
 
 .contador{
-    font-size: 20px;
-    text-align: center;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .contador-digito{
     padding: 0 16px;
