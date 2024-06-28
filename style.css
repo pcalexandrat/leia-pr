@@ -241,8 +241,8 @@ body {
 }
 
 .iframe {
-    width: 70%;
-    height: 100%;
+    width: 200%;
+    height: 150%;
     border:1px solid black;
 }
 
