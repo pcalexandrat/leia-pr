@@ -240,6 +240,12 @@ body {
     margin: 5em 0;
 }
 
+.iframe {
+    width: 70%;
+    height: 100%;
+    border:1px solid black;
+}
+
 .lista__item {
     font-size: 28px;
     color: white;
