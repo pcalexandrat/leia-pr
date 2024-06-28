@@ -241,6 +241,7 @@ body {
 }
 
 .iframe {
+    align-items: center;
     width: 400%;
     height: 300%;
     border:1px solid black;
