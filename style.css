@@ -78,7 +78,10 @@ body {
     align-items: center;
     display: none;
 }
-
+h1 {
+    color:var(--branco) ;
+    align-items: center;
+}
 h1 span{
     color: var(--verde);
 }
