@@ -45,6 +45,7 @@ body {
 }
 
 .lista-menu {
+    background-color: var(--verde);
     display: none;
     position: absolute;
     top: 100%;
