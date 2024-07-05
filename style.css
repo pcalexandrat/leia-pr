@@ -7,6 +7,7 @@
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
+    --fundo-menu: #3CB371;
 }
 
 body {
@@ -45,7 +46,7 @@ body {
 }
 
 .lista-menu {
-    background-color: var(--botao-inativo);
+    background-color: var(--fundo-menu);
     display: none;
     position: absolute;
     top: 100%;
