@@ -45,7 +45,7 @@ body {
 }
 
 .lista-menu {
-    background-color: var(--texto-fundo);
+    background-color: var(--botao-inativo);
     display: none;
     position: absolute;
     top: 100%;
