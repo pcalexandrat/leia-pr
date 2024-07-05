@@ -146,8 +146,8 @@ h1 span{
 
 .abas-textos{
     background-color: var(--texto-fundo);
-    padding: 40px;
-    border-radius: 0 0 40px 40px;
+    padding: 30px;
+    border-radius: 0 0 30px 30px;
 }
 .aba-conteudo.ativo{
     display:block;
@@ -157,11 +157,11 @@ h1 span{
     display: none;
 }
 #aba-conteudos-titulos-ccm{
-    font-size: 26px;
+    font-size: 20px;
     color: var(--botao-ativo);
 }
 .aba-conteudo-titulo-principal{
-    font-size: 28px;
+    font-size: 20px;
     text-align: center;
 }
 .aba-conteudo-titulo-secundario{
@@ -200,11 +200,11 @@ h1 span{
 }
 
     .botao:first-child {
-        border-radius: 40px 0 0 0;
+        border-radius: 30px 0 0 0;
     }
 
     .botao:last-child {
-        border-radius: 0 40px 0 0;
+        border-radius: 0 30px 0 0;
     }
 
     .estudante{
